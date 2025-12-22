@@ -1,7 +1,7 @@
 # MixPrompt: Efficient Mixed Prompting for Multimodal Semantic Segmentation
 
 <!-- This is the official implementation of our paper  **[MixPrompt: Efficient Mixed Prompting forMultimodal Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3664647.3681253))**. -->
-This is the official implementation of our paper  **MixPrompt: Efficient Mixed Prompting forMultimodal Semantic Segmentation**.
+This is the official implementation of our paper  **MixPrompt: Efficient Mixed Prompting forMultimodal Semantic Segmentation (NeurIPS 2025)**.
 
 Authors: Zhiwei Hao, Zhongyu Xiao, Jianyuan Guo, Li Shen, Yong Luo, Han Hu, Dan Zeng
 
