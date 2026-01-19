@@ -88,7 +88,7 @@ class Mixprompt(nn.Module):
 
         # self.learnable_prompt = nn.Parameter(torch.randn(1, 30, 32))
 
-        self.patch_embed1 = OverlapPatchEmbed(img_size=img_size, patch_size=7, stride=4, in_chans=in_chans,
+        # self.patch_embed1 = OverlapPatchEmbed(img_size=img_size, patch_size=7, stride=4, in_chans=in_chans,
                                               embed_dim=embed_dims[0])
         self.patch_embed2 = OverlapPatchEmbed(img_size=img_size // 4, patch_size=3, stride=2, in_chans=embed_dims[0],
                                               embed_dim=embed_dims[1])
