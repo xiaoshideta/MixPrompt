@@ -27,6 +27,7 @@ You can download the dataset from the official MFNet [website](https://github.co
 ### DELIVER Datasets (RGB-Depth-Event-LiDAR)
 You can download the dataset from the official DELIVER [website](https://github.com/jamycheung/DELIVER)
 
+We have uploaded the processed NYU Depth V2 Datasets that can be used for training and testing. Link: https://pan.baidu.com/s/1ZlVVwcfZcclOWuaEyc9H3A?pwd=tk7s  Extraction code: tk7s
 ## Installation
 1. Clone this repo.
 ```
