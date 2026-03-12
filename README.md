@@ -1,5 +1,6 @@
 # MixPrompt: Efficient Mixed Prompting for Multimodal Semantic Segmentation (NeurIPS 2025)
-
+[![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue&logo=github-pages)](https://github.com/xiaoshideta/MixPrompt/)
+[![arXiv](https://openreview.net/pdf?id=jt9iMeQQvM)
 <!-- This is the official implementation of our paper  **[MixPrompt: Efficient Mixed Prompting forMultimodal Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3664647.3681253))**. -->
 This is the official implementation of our paper  **MixPrompt: Efficient Mixed Prompting forMultimodal Semantic Segmentation**.
 
